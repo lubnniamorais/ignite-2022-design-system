@@ -12,13 +12,11 @@
 }
 
 .tokens-grid thead th {
-  width: 100%;
   padding: 0.75rem 1rem;
   text-align: left;
 }
 
 .tokens-grid tbody td {
-  width: 100%;
   padding: 0.75rem 1rem;
   color: #ccc;
 }
