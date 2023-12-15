@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/lubnniamorais.png',
     alt: 'Lubnnia Morais',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
