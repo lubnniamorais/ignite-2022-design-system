@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@lubnnia-ignite-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@lubnnia-ignite-ui/eslint-config": "*",
+    "@lubnnia-ignite-ui/tokens": "*",
+    "@lubnnia-ignite-ui/ts-config": "*",
     "tsup": "^8.0.1",
     "typescript": "^5.3.2"
   },
